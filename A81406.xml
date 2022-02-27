@@ -1,0 +1,579 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true prophecie of the mighty day of the Lord Which is coming, and is appeared in the north of England, and is rising toward the south; and shall overspread this nation and all the nations of the world. Wherein the Lord is redeeming Sion forth of her long inthral'd captivity in Babylons kingdom, where she hath been scattered in the cloudy and dark day, into forms and observations, and there kept by the priests, and teachers of the world, who ranne when God never sent them. Now is the Lord appearing in this day of his might power, to gather his elect together, out of all forms observations, kinreds, tongues, and nations; ... A word from the Lord to all the inhabitants of England, rulers, priests and people, to haste to meet the Lord with speedy repentance, and turning within, to harken diligently to his counsel, ... From the spirit of the Lord, written by one whose name in the flesh is William Dewsbury, called Quaker with the people of the world, who live in their perishing nature.</title>
+            <title>True prophecy of the mighty day of the Lord</title>
+            <author>Dewsbury, William, 1621-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81406</idno>
+            <idno type="STC">Wing D1280</idno>
+            <idno type="STC">ESTC R227066</idno>
+            <idno type="EEBO-CITATION">99895669</idno>
+            <idno type="PROQUEST">99895669</idno>
+            <idno type="VID">153174</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81406)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153174)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2352:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true prophecie of the mighty day of the Lord Which is coming, and is appeared in the north of England, and is rising toward the south; and shall overspread this nation and all the nations of the world. Wherein the Lord is redeeming Sion forth of her long inthral'd captivity in Babylons kingdom, where she hath been scattered in the cloudy and dark day, into forms and observations, and there kept by the priests, and teachers of the world, who ranne when God never sent them. Now is the Lord appearing in this day of his might power, to gather his elect together, out of all forms observations, kinreds, tongues, and nations; ... A word from the Lord to all the inhabitants of England, rulers, priests and people, to haste to meet the Lord with speedy repentance, and turning within, to harken diligently to his counsel, ... From the spirit of the Lord, written by one whose name in the flesh is William Dewsbury, called Quaker with the people of the world, who live in their perishing nature.</title>
+                  <title>True prophecy of the mighty day of the Lord</title>
+                  <author>Dewsbury, William, 1621-1688.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Giles Calvert, at the Black-spread Eagle at the west end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Prophecies --  Early works to 1800.</term>
+               <term>Eschatology --  Early works to 1800.</term>
+               <term>Millennium --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153174:1"/>
+            <p>A TRVE PROPHECIE OF THE <hi>Mighty DAY of the LORD.</hi>
+            </p>
+            <p>Which is coming, and is appeared in the North of <hi>England,</hi> and is riſing toward the South; and ſhall over<g ref="char:EOLhyphen"/>ſpread this Nation, and all Nations of the World.</p>
+            <p>WHEREIN The Lord is redeeming <hi>Sion</hi> forth of her long inthral'd Cap<g ref="char:EOLhyphen"/>tivity in <hi>Babylons</hi> Kingdom, where ſhe hath been ſcattered in the cloudy and dark day, into Forms and Obſervations, and there kept by the Prieſts, and Teachers of the World, who ranne when God never ſent them.</p>
+            <p>Now is the Lord appearing in this day of his mighty power, to gather His elect together, out of all Forms and Obſervations, Kinreds, Tongues and Nations; and is making up his Iewels, his mighty hoaſt, and exalting Ieſus Chriſt to be the King of Kings, to lead his Army He hath raiſed up in the North of <hi>England;</hi> and is marched towards the South, in the mighty power of the living Word of God, which is ſharp as a two edged Sword, to cut down High and Low, Rich and Poor, Prieſts and People: and the all Powers of the Land, and all the World over, that are fruitleſs trees that cumbers the ground, defiles the fleſh, and walks in diſobedi<g ref="char:EOLhyphen"/>ence to the righteous law of God, the pure light in the Conſcience; <hi>For who falls on this Stone ſhall be broken, but on whom it falls ſhall be ground to powder:</hi> So ſhall this Nation, and all the Nations of the World be conquered; and the victory witneſſed, neither by Sword nor Spear, but by the Spirit of the Lord.</p>
+            <p>A WORD from the LORD to all the Inhabitants of <hi>England,</hi> Rulers, Prieſts and people, to haſte to meet the Lord with ſpeedy Repentance, and turning within, to hearken diligently to His Counſel, the pure light of Chriſt in your Conſcience, to be guided by His Power: elſe you ſhall periſh in your gain ſayings; <hi>For if his anger be kindled a-little, bleſſed are all they that truſt in him.</hi>
+            </p>
+            <p>From the Spirit of the Lord, written by one whoſe name in the fleſh is <hi>William Dewsbury,</hi> called <hi>Quaker</hi> with the people of the World, who live in their periſhing nature.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Clavert,</hi> at the <hi>Black-ſpread Eagle</hi> at the Weſt end of <hi>Pauls,</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153174:2"/>
+            <pb n="1" facs="tcp:153174:2"/>
+            <head>
+               <hi>A true Prophecy of the mighty Day of the Lord,</hi> &amp;c.</head>
+            <p>O <hi>England,</hi> who lies in the <hi>faln</hi> and <hi>loſt</hi> eſtate, ſeparated from the true and living God, <hi>by thine iniquities,</hi> notwithſtanding <note place="margin">
+                  <hi>Hoſ.</hi> 1.</note> all thy profeſſion of his Name, in outward forms and obſer<g ref="char:EOLhyphen"/>vations; Repent, repent, and turn unto the Lord God Al<g ref="char:EOLhyphen"/>mighty, who waits on thee to be gracious unto thee, and to make thee the glory of all the Nations of the world, if thou wilt dili<g ref="char:EOLhyphen"/>gently <note place="margin">
+                  <hi>Iſa.</hi> 30</note> hearken to his counſel, the light that is in the Conſcience of every one, to wait in it upon the Lord God, that he may guide thee by his power. <note place="margin">
+                  <hi>Iohn.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note>
+            </p>
+            <p>And this I have to declare unto thee from the Lord, which he hath made known unto me, concerning thee O <hi>England,</hi> certain years ago, when the everlaſting Covenant of Life was cſionrmed unto my Soul in the Lord Jeſus <note place="margin">
+                  <hi>Iſa.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> Chriſt, that I ſhould go with the ranſomed of the Lord unto <hi>Sion:</hi> I en<g ref="char:EOLhyphen"/>quired of my God, to manifeſt unto me where <hi>Sion</hi> was, that I might re<g ref="char:EOLhyphen"/>turn <note place="margin">cap. 35 Ioh. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> thither &amp; worſhip him <hi>inspirit &amp; in truth;</hi> there being ſo many con<g ref="char:EOLhyphen"/>fuſed cries in thee O <hi>England,</hi> who profeſſes to worſhip the only true God; ſome ſaying, <hi>Lo here is Chriſt</hi> in the Presbyterian practice ſo called: and the Independent ſo called, cries, <hi>Lo he is here:</hi> and the Anabaptiſts ſo called ſaying, <hi>Lo he is here:</hi> and others in outward forms ſaying, <hi>He is here,</hi> accor<g ref="char:EOLhyphen"/>ding as Chriſt forerold, that the time ſhould come when they ſhall ſay, <hi>Lo here is Chriſt and to there,</hi> as it is fulfilled in thee: but Chriſt faith, <hi>Believe them not, look not forth, for the Kingdom of Heaven is within: And as the light<g ref="char:EOLhyphen"/>ning</hi> 
+               <note place="margin">Luk. 7 23. 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>that ſhineth out of the one part under Heaven, and ſhineth unto the other part under Heaven, even ſo ſhall the Son of man in his day:</hi> And this I witneſs; and while I was waiting on my God, to make known unto me where <hi>Sion</hi> was, the Word of the Lord came unto me with witneſs to my ſpirit, that Chriſt was not divided, and that there was no rent in his gar<g ref="char:EOLhyphen"/>ment, <hi>for the Lord is one and his people one;</hi> and that all thy outward forms <note place="margin">1 Cor. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Zech. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> of Worſhip O <hi>England,</hi> where thou art waiting for Chriſt in obſervations, is contrary to his Will; for Chriſt ſaith, <hi>The Kingdom of God is not in ob<g ref="char:EOLhyphen"/>ſervations; neither ſhall they ſay, Lo here, or lo there, for behold the Kingdom</hi> 
+               <note place="margin">Luke. 20, 21</note> 
+               <hi>of God is within you:</hi> And that all thy ſtrict obſerving of thy outward forms, is but imitating the Saints practices, in thy Babyloniſh and Heatheniſh Wiſdom, for there is nothing but confuſion in thee; and that all thy out<g ref="char:EOLhyphen"/>ward
+<pb n="2" facs="tcp:153174:3"/>
+Forms is the outward Court, which is without the Temple, that the <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1. 11,</note> Angel was not to meaſure, for it is given unto the Gentiles, and the holy City ſhall they tread under foot: and this was made known unto me from the Lord my God, to be the eſtate and condition thou ſtoodſt, and doſt ſtand in, O <hi>England,</hi> in all thy outward Forms and Obſervations; <hi>having a form of Godlineſs, but denying the power thereof:</hi> For under all thy profeſſi<g ref="char:EOLhyphen"/>on, <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 2. 3. 5.</note> is moſt cruel oppreſſion, every one oppreſſing one another, according unto their power, from the higheſt unto the loweſt; ſo that the cry of the oppreſſed Seed within the hearts of thy Inhabiters, O <hi>England,</hi> and thoſe that are oppreſſed in outward oppreſſions in thee, hath entred into the <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 5. 5.</note> ears of the Lord God of Sabboth, and he is coming in power to ſet the op<g ref="char:EOLhyphen"/>preſſed free, and to bring them to <hi>Sion;</hi> which in the eternall Riches of <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 58. 6. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 14.</note> his Love he made known to me where <hi>Sion</hi> was, according unto the de<g ref="char:EOLhyphen"/>ſires he had raiſed up in my heart; and the Word of the Lord came unto me ſaying, <hi>I will gather my people out of all forms and obſervations, and out</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 5. 9. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 7. 9. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 34.</note> 
+               <hi>of all kindreds, tongues, and Nations; and</hi> I <hi>will pour my Spirit upon them, and purge away their filth with the Spirit of Iudgment and of burning; and I will write my Law in their hearts, and put my Spirit in their inward parts, and they ſhall not depart from me;</hi> but ſhall be bound up in union with me, in the free <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1. 33. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 14. 9.</note> Covenant of Life in the Lord Jeſus, and one with another, in the one Spi<g ref="char:EOLhyphen"/>rit, <hi>So ſhall the Lord be one, and his people one:</hi> and this is <hi>Sion,</hi> the City of the living God, to whom all the promiſes of the Lord are: n accordi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g unto <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 10.</note> the Scripture of Truth, wherein <hi>they need not to teach every man his neighbour, and every man his brother, ſaying, Know the Lord, for all ſhall know me from the leaſt unto the greateſt, for I will be merciful unto their unrighteouſneſs, and</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 8. 10. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.</note> 
+               <hi>their ſins and iniquities will I remember no more.</hi>
+            </p>
+            <p>And this is the holy City, the New <hi>Ieruſalem,</hi> which <hi>Iohn</hi> bare witneſs of, wherein <hi>there is no Temple, for the Lord God Almighty and the</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1. 2. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>Lamb are the Temple of it: And the City had no need of the Sun, neither of the Moon to ſhine in it, for the glory of God doth lighten it, and the Lamb is the light thereof: And the Nations of them that are ſaved, ſhall walk in the light of it; and the Kings of the Earth do bring their glory and honour unto it. And the Gates of it are not ſhut at all by day, for there ſhall be no Night there: There ſhall in no wiſe enter into it any thing that defileth nei<g ref="char:EOLhyphen"/>ther that works abomination, or makes a lye, but they that are written in the Lambs Books of Life,</hi> and all that walk in the light of Chriſt within: which light exerciſeth the Conſeience, and leads into the holy City, the New <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 24.</note> 
+               <hi>Ieruſalem,</hi> where <hi>the true worſhippers of the Father</hi> are, who <hi>worſhip him in ſpirit and in truth,</hi> and are come out of the <hi>night, and need no candle, nei<g ref="char:EOLhyphen"/>ther</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 2. 5.</note> 
+               <hi>light of the Sun, for the Lord God giveth them light, and they ſhall raign for ever and ever:</hi> and this is the true Church in God, <hi>Sion,</hi> which ſhall <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 1.</note> 
+               <hi>become the praiſe of the whole Earth,</hi> and from whence the Law ſhall go forth, according unto the promiſe of the Lord, and the Word of the Lord from <hi>Ieruſalem;</hi> Then ſhall <hi>Righteouſneſs run up and down with a mighty ſtream</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>and Oppreſſion ſhall ceaſe.</hi>
+            </p>
+            <p>And this glory of the Lord was by the Lord made known unto me, which
+<pb n="3" facs="tcp:153174:3"/>
+ſhall be made manifeſt to the Inhabiters of <hi>England,</hi> if you will hearken dili<g ref="char:EOLhyphen"/>gently to the counſel of the Lord, which is the light in your Conſciences, and in it, waite on the Lord to be guided by his power: I waited in the Counſel of my God, in the Calling where I was placed, until the year 1652. and in the eight Month of the Year, as it is accompted of men, The Word of the Lord came unto me, ſaying, <hi>The Leaders of my people cauſes</hi> 
+               <note place="margin">
+                  <hi>Iſa.</hi> 9. 36.</note> 
+               <hi>them</hi> to <hi>err,</hi> in drawing them from the light in their Conſciences, which leads to the anointing within, which the Father hath ſent to be their <note place="margin">1 <hi>Iohn</hi> 2. 27. <hi>Luk</hi> 17. 20.</note> Teacher, which would <hi>lead them into all truth,</hi> to ſeek the Kingdom of God in obſervations, where it is not to be found: ſo <hi>my people periſh for want of bread: Freely thou haſt received, freely give,</hi> and miniſter; and what I have made known unto thee in ſecret, declare openly. Which Word conſtrain<g ref="char:EOLhyphen"/>ed me by the power of it to leave my wife and children, and to run to and <note place="margin">
+                  <hi>Hoſ.</hi> 4. 6.</note> fro, to declare to Souls where their Teacher is, the light in their Con<g ref="char:EOLhyphen"/>ſciences, which the Lord hath given unto every one a meaſure to profit withall, for the exerciſe of the Conſcience towards God and men, and <note place="margin">
+                  <hi>Dan.</hi> 10. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<hi>Ren.</hi> 7. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> waiting in the light for the power of Chriſt; He would lead them up to the living Fountains of Water, where their Souls would find refreſhment in the preſence of the Lord, and their bread ſhould be ſure, and their wa<g ref="char:EOLhyphen"/>ter <note place="margin">
+                  <hi>Iſai.</hi> 35. 1. <hi>Rev.</hi> 5. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> never fail, as the Lord hath made manifeſt to my Soul; and to worſhip him in truth at New <hi>Ieruſalem,</hi> to ſing Hallelujahs and Praiſes among the redeemed Sons and Daughters of God, in the beauty of holineſs unto <hi>the Lord God that ſits upon the Throne, and to the Lamb for evermore.</hi>
+            </p>
+            <p>To you Rulers of <hi>England,</hi> whoſe names will be honorable, if you will honour the Lord in obeying his Counſel, which is the light in your Con<g ref="char:EOLhyphen"/>ſciences, that he may guide you in all your waies, to you I am moved to write: Thus ſaith the Lord God Almighty, <hi>I will overturn, overturn, o<g ref="char:EOLhyphen"/>rerturn</hi> 
+               <note place="margin">
+                  <hi>Eze.</hi> 21.</note> 
+               <hi>until I have given it unto him whoſe right it is,</hi> and he will give it me. As you have ſeen the power of the Lord manifeſt on many that are in the place where you are, a cloud of witneſſes, the Biſhops, and the King, the Lords, and the late Parliment, who all profeſſed the name of Chriſt, but <note place="margin">
+                  <hi>Ier.</hi> 1. 1. 1.</note> they would not obey his Counſel, the light in their Conſciences, but <hi>walk<g ref="char:EOLhyphen"/>ed after the counſel of their own hearts,</hi> and improved their power for their own ends, and would have diſſembled with God and the Country, but <note place="margin">
+                  <hi>Dan.</hi> 12. <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> our righteous God hath overturned them, to their everlaſting ſhame and contempt. <note place="margin">
+                  <hi>Iſai.</hi> 58. <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note>
+            </p>
+            <p>Now if you will not obey the light in your Conſciences to rule in the power of the ſpirit, to break every yoak of unrighteouſneſs, and put every filthy and abominable thing out of the ſight of the Lord, that the oppreſ<g ref="char:EOLhyphen"/>ſed <note place="margin">
+                  <hi>Rev.</hi> 13. <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> may be ſet free; but you will cauſe both ſmal and great to worſhip the image of the beaſt, in forcing them to obey the heatheniſh and unrgihte<g ref="char:EOLhyphen"/>ous Laws made by <hi>Nebuchadnezzar</hi>'s nature, proud fleſh who ſet up himſelf a King, to oppreſs all under his power, and ſet up whom he would to rule and ranig with him over others in Tyranny, cruelty and oppreſſion in all unrighteouſneſs; which Beaſt received a deadly wound with a ſword, by the little horn ſpoken of in <hi>Daniel,</hi> before whom three horns fell, which <note place="margin">
+                  <hi>Dan.</hi> 7 <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note>
+               <pb n="4" facs="tcp:153174:4"/>
+was the Kings power in theſe three Nations; and the horn had eyes to ſee what they ſhould do, the Light in their Conſcience, and a mouth which ſpeaketh great things, what they ſhould do for the Glory of God, whoſe look was more ſtout then their fellows: <hi>I beheld the ſame horn made war with the Saints of the moſt high God, and prevailed againſt them,</hi> as it is ful<g ref="char:EOLhyphen"/>filled. <note place="margin">
+                  <hi>Terr</hi> 20. 21.</note> Many of them have been perſecuted, and ſome caſt into priſon, by their power: and this is the Beaſt that <hi>had power to give life to the image, that the Image of the Beaſt ſhould both speak, and cauſe that as many as would not</hi> 
+               <note place="margin">
+                  <hi>Rev.</hi> 12. 15.</note> 
+               <hi>worſhip the image of the Beaſt ſhould be killed;</hi> And this is fulfilled, that when the Beaſt received his deadly wound, with the ſword of the righteous Ju<g ref="char:EOLhyphen"/>ſtice of God, in cutting down the Kings power, then did the other Beaſt which was the power that reigned after him, give life to the image of the Beaſt, that the image of the Beaſt ſpoke; and this was fulfilled in giving power to the unrighteous Laws, made by the Kings, where the Prieſts, and unrighteous Lawyers and Iudges, that <hi>judg for rewards,</hi> that as many <note place="margin">
+                  <hi>Mica.</hi> 3. 11.</note> as would not worſhip the Beaſt, in obeying the will of proud fleſh, which is the image of the Kings power; he muſt be killed, caſt into priſon, and there ſtarve, and be broken to pieces, with <hi>Daniel;</hi> and by the power of proud <hi>Nebuchadnezz</hi>'s nature, muſt be caſt into places, ſome into cloſe priſon by the wrath of proud fleſh, and muſt neither <hi>buy nor ſell,</hi> nor have <note place="margin">
+                  <hi>Rev.</hi> 13. 17.</note> any benefit of the Law, <hi>but he that hath the mark of the Beaſt, and the number</hi> 
+               <note place="margin">
+                  <hi>Dan.</hi> 12. 9. 1. <hi>Rev.</hi> 13. 18 <hi>Dan.</hi> 3. 3.</note> 
+               <hi>of his Name; Here is the patience and Faith of the Saints.</hi> And you Saints of the moſt high God, ſtand in his Will; <hi>for theſe words are ſealed up, until the time of the End; and you ſhall ſtand in the lot at the end of the dayes, Here is wiſdome: Let him that hath underſtanding, count the number of the Beaſt, for it is the number of a man, and his number is ſix hundered threſcore and ſix.</hi> Now if you hold up this glorious Image, which was ſet up by <hi>Nebuchadnezzar</hi>'s nature, proud fleſh, in humane wiſ<g ref="char:EOLhyphen"/>dom, which that Image ſpoken of in <hi>Daniel,</hi> was but a type and figure of this, which now ſhines gloriouſly in Forms and Obſervations, and denies the life and power of Jeſus Chriſt; you will be found to be the ſtrength and glory of this great Image: And this I declare unto you from the eternal God of Power, You ſhall be overturned, as all that have gone before you which have ſet up this great Image, and cauſed all both ſmal and great <note place="margin">
+                  <hi>Dan.</hi> 2. 40.</note> to bow down and worſhip it: The <hi>Stone cut out of the mountains without</hi> 
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ev.</hi> 14. 26.</note> 
+               <hi>hands,</hi> ſhall ſmite this glorious Image, and break it to pieces, and it ſhall <hi>become like the chaff of the ſummer threſhing floor, and the wind ſhall carry it away, and no place ſhall be found for it; and the Stone that ſmites the Image</hi> 
+               <note place="margin">
+                  <hi>Dan.</hi> 2. 34. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <hi>Mica.</hi> 3 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. 11.</note> 
+               <hi>ſhall become a great Mountain, and ſhall fill the whole Earth.</hi> O be Valigilant for the Truth upon Earth, ye Rulers of <hi>England,</hi> and give over building up <hi>Sion</hi> with Blood, and <hi>Ieruſalem</hi> with inquity, as it hath been in this Nati<g ref="char:EOLhyphen"/>on, by all that upheld this Image, which the Lord had overturned, caſt out before you, and is ſtill held up by you: <hi>The Heads thereof judge for re<g ref="char:EOLhyphen"/>wards, and the Prieſts teach for hire, and the Prophets thereof divine for mony:</hi> 
+               <note place="margin">
+                  <hi>Mic.</hi> 3. 11.</note> 
+               <hi>yet will they lean upon the Lord, and ſay, Is not the Lord amongſt us? no evil can come upon us.</hi> O prize your time, and ſtand ſtedfaſt in the counſell of the
+<pb n="5" facs="tcp:153174:4"/>
+Lord, the light in your Conſcience, hearken unto it, let it alone guide you in all your Counſel, that Chriſt may be Head in you all; then will the glory of God be the end of all your undertakings, and you will remove this filthy and abominable thing out of the fight of the Lord, the Iudges that judg for rewards, and the Lawyers that plead for mony, and the Prieſts that teach for hire: and ſet over the people, to judge their Cauſes, <note place="margin">
+                  <hi>Exod.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> men <hi>fearing God, and hating Covetouſneſs,</hi> to judg their Cauſes without re<g ref="char:EOLhyphen"/>wards, and that the people may be taught freely, without mony or price, <note place="margin">
+                  <hi>Iſa.</hi> 55. <hi>Mat.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> by the free Spirit of Chriſt in the hearts of his Saints, who cannot but de<g ref="char:EOLhyphen"/>clare freely, as they have freely received: Then will the mighty power of God go along with you in all your wayes, if you will ſtand in his counſel, <note place="margin">
+                  <hi>Pro.</hi> 8. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Pro,</hi> 1, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> and walk in his Fear to depart from all evil, which is the beginning of wiſdom, and your names will become a ſweet favour through the power of the Lord among his Saints, as all the names of the righteous are; and you ſhall partake of the glory of the Lord, which is manifeſting to his choſen people in this Nation, which he hath choſen to make known his Power, in exalting the Kingdom of Jeſus Chriſt, and he will make it the glo<g ref="char:EOLhyphen"/>ry of all the Nations in the world, and the mighty God of Power will be <note place="margin">
+                  <hi>Iſa,</hi> 26,</note> unto us <hi>Salvation for walls and bulworks,</hi> and <hi>we ſhall ſit under our vines and figtrecs, and none ſhall make us affraid:</hi> And this ſhall be the portion of your <note place="margin">
+                  <hi>Mica.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> Cup, if you will deny your ſelves, and diligently hearken to the counſel of the Lord, the Light in your conſciencs, to which I ſpeak, which ſhall e<g ref="char:EOLhyphen"/>ternally witneſs me the Truth declared unto you <hi>for the mouth of the Lord of hoſts hath ſpoken it,</hi> who hath raiſed up his own ſeed in his people in this Nation, which cannot cleave to this great Image, which was ſet up by thoſe <note place="margin">
+                  <hi>Dan.</hi> 2. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> that were in the place where you are, which the Lord hath overturned, and caſt out in his indignation, and is not yet taken away by you: and while you uphold it, the anger of the Lord is kindled againſt you. There is no peace to the wicked, ſaith my God.</p>
+            <p>Thisis the day that the God of Heaven will ſet up his own kingdom, <note place="margin">
+                  <hi>Dan.</hi> 2. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> which ſhall never be deſtroyed; and the Kingdom ſhall not be left unto other people, but it ſhall break in pieces and conſume all theſe Kingdoms, and it ſhall ſtand for ever and ever. Here I have declared my Conſcience, in declaring unto you what my God hath made known unto me concerning you and the Nation, which ſhall ſhortly come to paſs: He that hath an eye to ſee, let him ſee; and he that hath an ear to hear, let him hear.</p>
+            <p>To all you unrighteous Iudges, that judg for rewards, and Lawyers <note place="margin">
+                  <hi>Mic.</hi> 3. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> that plead for mony, who devour the Creation, and ſet people at variance, deſtroy many families, and delight in unrighteouſneſs; and to all Op<g ref="char:EOLhyphen"/>preſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, <note place="margin">
+                  <hi>Pro.</hi> 6. 1 <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 2. <hi>Theſ</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 12. <hi>Iam.</hi> 5. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5<gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> high and low, who grinde the faces of the poor, and cauſe them to groan under your Cruelty and Oppreſſion, hear the Word of the Lord.</p>
+            <p>Thus ſaith the Lord God, <hi>Howl and weep for the miſery which is coming upon you, for the cry of the oppreſſed hath entered into the ears of the Lord</hi> and he is coming <hi>to render vengeance upon you and to ſet the oppreſſed free. For the truſt of your mony and gold ſhall eat your fleſh, as it were fire, for you have heaped</hi> 
+               <note place="margin">
+                  <hi>Iſa.</hi> 5. 8 <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note>
+               <pb n="6" facs="tcp:153174:5"/>
+               <hi>up treaſures for the laſt day;</hi> and ye ſhall be cut down, ye fruitleſs trees, that <hi>cumber the ground,</hi> &amp; be caſt into the lake, for it is the place prepared for you, and for all fearful and unbeleeving; And <hi>the abominable, and mur<g ref="char:EOLhyphen"/>therers,</hi> 
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am.</hi> 5. 3.</note> 
+               <hi>and whoremongers, and Sorcerers, Idolaters, and all lyers ſhall have their part in the Lake which burns with fire and brimſtone, which is the ſecond</hi> 
+               <note place="margin">
+                  <hi>Luk.</hi> 13. 7. <hi>Rev.</hi> 21. 8. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſa.</hi> 55. 3.</note> 
+               <hi>death.</hi> Repent, repent, now while you have time, <hi>put away the evil of your doings,</hi> turn to the Lord, and hearken diligently unto his counſel, the light in your Conſciences, which lets you ſee the evil of your doings. Loving the light, and giving your ſelves up to be guided by it, it will lead you to <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ohn</hi> 3. 19.</note> life: hating it, and diſobeying it, it is your Condemnation: This is the day of your viſitation, priſe it, leſt you periſh in the mighty day of the Lords anger, which will ſpeedily come upon the children of diſobedience <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oel</hi> 2. 1.</note> To the pure light in your Conſciences I ſpeak, which witneſſes againſt the evil of your doings, and will witneſs me eternally, when the Book of Con<g ref="char:EOLhyphen"/>ſcience is opened.</p>
+            <p>Howl and weep all you that live in pride, and pleaſures, and drunken<g ref="char:EOLhyphen"/>neſs, gluttony, luſt and uncleanneſs, lightneſs and vanity, idle communi<g ref="char:EOLhyphen"/>cation, fooliſh jeſting and laughter, which is madneſs and folly; curſed ſpeaking, lying, cozening, cheating, ſwearing: for which cauſe the land mourns: You live without the fear of God, eating and drinking and ri<g ref="char:EOLhyphen"/>ſing up to play, to pleaſe your ſelves; your belly is your God, your end is deſtruction, who mind earthly things; Hear the Word of the Lord and fear, ye fruitleſs trees, which cumber the ground and deſile the fleſh: the Lord will cut you down and caſt you into hell, for the wicked ſhall be tur<g ref="char:EOLhyphen"/>ned <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uke</hi> 13. 7.</note> into hell and all that forget God, and this is your portion in the eſtate that you are in; own it, for the mouth of the Lord hath ſpoken it; With<g ref="char:EOLhyphen"/>out are dogs, and ſorcerers, and whoremongers, and murderers, and Idola<g ref="char:EOLhyphen"/>ters and whoſoever loves and makes a lye, <hi>ſhall have their part in the Lake which burneth with fire and brimſtone, which is the ſecond death.</hi> 
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ev.</hi> 22. 15</note>
+            </p>
+            <p>Repent, repent, and prize your time, and turn unto the Lord, and mind the pure light in your Conſciences which lets you ſee the evil of your hearts; loving it, and obeying it, it will lead you forth out of all unrigh<g ref="char:EOLhyphen"/>teouſneſs to eternal life; hating it, and diſobeying it, it is your condem<g ref="char:EOLhyphen"/>nation: <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t.</hi> 2. 11</note> This is the day of your viſitation, prize it, leſt you periſh in the day of the Lords anger, which is coming upon the childern of diſobedience <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>hn</hi> 3. 19.</note> in this Nation and elſe where; for the Lord will make the Earth as the garden of <hi>Eden,</hi> and hath begun His great and ſtrange Work in this Na<g ref="char:EOLhyphen"/>tion, <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l.</hi> 51. 3.</note> and is making up His jewels, and gathering His Wheat into His garner, ſons and daughters up unto himſelf; and will bundle up you tares, <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l.</hi> 3. 17.</note> and cut down you fruitleſs trees, and caſt you into the place prepared for you, who defile the fleſh, cumber the ground, and walk contrary to <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>k.</hi> 13. 7.</note> the righteous Law of God, the pure light in your Conſciences, to which light I ſpeak, which will eternally witneſs me, when the Book of Conſci<g ref="char:EOLhyphen"/>ence is opened,</p>
+            <pb n="7" facs="tcp:153174:5"/>
+            <p>To all you who have profeſſed your ſelves to be the miniſters of Chriſt, and walk contrary to the Doctrine of Chriſt, in having <hi>the chief<g ref="char:EOLhyphen"/>eſt places in the Aſſemblies, ſtanding praying in the Synagogues</hi> and <hi>having</hi> 
+               <note place="margin">
+                  <hi>Mat.</hi> 23. 5. 6, 7. <hi>Iſa.</hi> 56. 10, 11.</note> 
+               <hi>upper moſt rooms at Feaſts, greetings in the Markets,</hi> and <hi>of men called Maſters,</hi> as the Scribes and Phariſees did, which Chriſt cryed <hi>Wo</hi> a<g ref="char:EOLhyphen"/>gainſt; and <hi>every one of you ſeeking your gain from your quarters,</hi> as the falſe Prophets did, when the Lord ſent <hi>Iſaiah</hi> the true Prophet to cry againſt them.</p>
+            <p>And you hold up the horrible filthy thing committed in the Land, <note place="margin">
+                  <hi>Jer.</hi> 5, 30. 31.</note> in bearing rule by your means, as the falſe Prophets did, when the Lord ſent <hi>Jeremiah</hi> the true Prophet to cry againſt them.</p>
+            <p>And you ſeek for the Fleece, and clothe your ſelves with the Wool, and feed with the fat, and make a prey of the people, as the falſe Pro<g ref="char:EOLhyphen"/>phets did, which the Lord ſent <hi>Ezekiel</hi> the true Prophet to cry againſt, <note place="margin">
+                  <hi>Ezek.</hi> 34. 2. 3.</note> 
+               <hi>Thus ſaith the Lord, I will require my flock at their hands, and cauſe them to ceaſe from feeding my flock; neither ſhall the Shepheards feed themſelves any more; for I will deliver my flock from their mouths, that they may not be meat for them.</hi> Now is the Lord gathering his people from under your power, which you have made a prey of: and you make the people <note place="margin">
+                  <hi>Mic.</hi> 3. 5.</note> to err, and bite with your teeth, as the falſe Prophets did, when the Lord ſent <hi>Micah</hi> the true Prophet to cry out againſt them; and you cry <hi>peace,</hi> as they did, and he that puts not into your mouths, you even prepare War againſt him; and this is fulfilled by your going to Law with poor people for your wages, and others in raiſing perſecution againſt every one that will not obey you in your vain Traditions, <note place="margin">
+                  <hi>Ier.</hi> 23. 30.</note> wherein you ſteal every one the Word of the Lord from his neighbour, in taking a part of Scripture, and adding unto it your wiſdom, and ſo ſpeak of the Saints conditions, which you cannot witneſſe fulfilled in your ſelves; a falſe viſion, a divination and deceit of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our own heart, <note place="margin">
+                  <hi>Ier.</hi> 1. 14.</note> and ſo cauſes the people to err by your lies, and by your lightneſſe, as the falſe Prophets did, when the Lord ſent <hi>Jeremiah</hi> the true Prophet, who knew the Word of the Lord to be as <hi>a fire and hammer,</hi> to cry a<g ref="char:EOLhyphen"/>gainſt them: and all the Saints that know the Word of the Lord, <note place="margin">
+                  <hi>Ier.</hi> 23. 20.</note> knows it to be a fire and a hammer in them, in transforming them by its power <hi>from under the powers of darkneſſe, into the glorious light and li<g ref="char:EOLhyphen"/>berty of the Sons of God.</hi> See you, how you dawb up the people with <hi>untempered morter,</hi> ſeeing vanities, and divining lies unto them, ſaying, <note place="margin">
+                  <hi>Ezek.</hi> 13. 10. 11.</note> 
+               <hi>Thus ſaith the Lord, as you may find it written in ſuch a place of Scripture, which was spoken by the Lord in them which gave it forth:</hi> And thus you ſteal the Saints words to ſpeak of, when as the Lord never ſpoke by you: as the falſe Prophets did, when the Lord ſent <hi>Ezekiel</hi> to cry a<g ref="char:EOLhyphen"/>gainſt them; and now he hath raiſed up his ſons and daughters, who o<g ref="char:EOLhyphen"/>bey <note place="margin">
+                  <hi>Ier.</hi> 23. 31.</note> His Counſel, to cry againſt you: And this I declare unto you from the Lord, <hi>Night ſhall be upon you, that you ſhall have no viſion, but
+<pb n="8" facs="tcp:153174:6"/>
+ſhall be aſhamed and confounded; yea, you ſhall all cover your lips, for there ſhall be no anſwer of God.</hi>
+            </p>
+            <p>Wo, wo unto you, you Murtherers of Souls, whoſe blood hath cryed unto the Lord God Almighty, and he is coming in power to require their blood at your hands, who have ſhut the Kingdom of Heaven a<g ref="char:EOLhyphen"/>gainſt men, as the Scribes and Phariſees your forefathers did, in telling <note place="margin">
+                  <hi>Mat.</hi> 22. 13. <hi>Ioh.</hi> 1. 9.</note> people, the light of Chriſt, (which inl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghteneth every mans conſcience; in which light he is to wait for the power of Chriſt to guide him out of every evil way, to walk in purity and holineſs, without which no man ſhall ſee the Lord. You tell them) it is the light o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a natural Con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ci<g ref="char:EOLhyphen"/>ence; <note place="margin">
+                  <hi>Heb.</hi> 12. 14</note> and you will not enter into the Kingdom your ſelves, to be guid<g ref="char:EOLhyphen"/>ed by the light in your Conſciences, which would lead you into the Kingdom, nor ſuffer them that are entering in, to enter in, and <note place="margin">
+                  <hi>Mat.</hi> 23. 13</note> here you ſhut all from the Kingdom of Heaven, which is within them in drawing them from the light in their Conſciences, which would lead them unto the Word of Faith, which is in their hearts, the anointing <note place="margin">1 <hi>Iohu</hi> 2. 20. 27.</note> of the Father, wherein they need not to teach one another, but as the Anointing teaches, which is in truth, and is no lie, which all the Chil<g ref="char:EOLhyphen"/>dren of the Lord are witneſſes of, in their meaſures, who walk in the light, and ſee your deceits, how you murder and deſtroy Souls for mony to maintain you in pride and pleaſure, though the light in you Conſci<g ref="char:EOLhyphen"/>ences cry againſt you for your practices, but you hate it, and will not o<g ref="char:EOLhyphen"/>bey it: but to it I ſpeak, which will witneſs me eternally, when the Book of Conſcience is opened to your condemnation, who ſhut all peo<g ref="char:EOLhyphen"/>ple <note place="margin">
+                  <hi>Iohu</hi> 3. 19. 20. 21.</note> out of the Kingdom of God (which is within them) in turning them aſide from the light in their Conſciences, which the Lord hath given unto every one a meaſure, to guide them into the Kingdom: And then you make a prey of them, in telling them they muſt wait for the King<g ref="char:EOLhyphen"/>dom <note place="margin">
+                  <hi>Mat.</hi> 25. 15</note> of God in Obſervations, which you call Ordinances, which you have ſet up in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our imaginations, of the Saints Conditions, which is re<g ref="char:EOLhyphen"/>corded in the Scripture of Truth: Some of you ſay, <hi>Lo here is Chriſt,</hi> in <note place="margin">
+                  <hi>Dan.</hi> 10. 21</note> the Presbyterian practice; and, ſaith another, <hi>Lo he is here,</hi> in the Inde<g ref="char:EOLhyphen"/>pendent practice; and the Anabaptiſt ſaith, <hi>Lo he is here,</hi> and others that walk in outward Obſervations, ſay, <hi>Lo he is here;</hi> according as <note place="margin">
+                  <hi>Mat.</hi> 24. 23.</note> Chriſt foretold, that ſuch ſhould come that would ſay, <hi>Lo here is Chriſt, lo there is Chriſt,</hi> as it is fulfilled in you, who draw people to ſeek the Kingdom of God in outward Obſervations; but ſaith Chriſt, <hi>Beleeve them not, for the Kingdom of God comes not with obſervations; for as the</hi> 
+               <note place="margin">
+                  <hi>Mat.</hi> 24. 27.</note> 
+               <hi>ligh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ening cometh out of the Eaſt, and ſhineth unto the Weſt, ſo ſhall the com<g ref="char:EOLhyphen"/>ing of the Son of man be:</hi> And this I witneſs; but you turn them from the light in the Conſcience, which would lead them into the Kingdom to look forth at the glorious Image you have ſet up in outward Obſer<g ref="char:EOLhyphen"/>vations, and they muſt pay you ſo much a year for it, as will maintain you in pride and pleaſures, to be Maſters among the ſons of men; And ſo you worſhip the works of your own hands, offering up Sacrifice to an unknown God, whom you ignorantly worſhip having no Scripture for many things you do.</p>
+            <p>
+               <pb n="9" facs="tcp:153174:6"/>
+There is no Scripture for your Call into the Miniſtry of the Goſpel of Chriſt, by humane wiſdom; nor for your making bargains with the <note place="margin">1 <hi>Cor.</hi> 1. 26. 27. <hi>Acts</hi> 20. 33 <hi>Mat.</hi> 10. 8.</note> people for ſo much a year.</p>
+            <p>There is no Scripture for your ſprinkling water on the face of a child calling it Baptiſm.</p>
+            <p>There is no Scripture for your ſtealing the Saints words in taking a part of Scripture, and adding to it your wiſdom, tearing it in ſunder, in <note place="margin">
+                  <hi>Ier.</hi> 23. 30.</note> Dectrines, Reaſons, Uſes, Helps, Motives, according unto the fancies of your brains.</p>
+            <p>There is no Scripture for your particular houſes that you have to creep into, where none muſt come but your ſelves and whom you pleaſe to declare your Sermon as you call it, which is a divination of your own hearts, one day after another, and one year after another.</p>
+            <p>There is no Scripture for your putting <hi>Davids</hi> words into the mouths of poor ignorant people, to ſing praiſes unto the Lord, as, <hi>O Lord, I</hi> 
+               <note place="margin">
+                  <hi>Pſa.</hi> 131. 1 <hi>Pſa.</hi> 6. 6. <hi>Pſal,</hi> 119. 120.</note> 
+               <hi>am not puff'd in mind; I have no ſcornfull eye; I water my couch with my tears, all the night make I my bed to ſwim; all my bones do tremble,</hi> when they cannot witneſs theſe Conditions; and ſo cauſe them to blaſpheme the Name of God. And when the light in their Conſciences cries againſt them, for lying in the preſence of God, and blaſpheming his great and glorious Name; you tell them, It is the light of a natural Conſcience, <note place="margin">
+                  <hi>Mat.</hi> 23. 13.</note> and ſo murders their Souls in ſhutting them out of the Kingdom of God as the Scribes and Phariſees, and all the falſe Prophets did, that deny<g ref="char:EOLhyphen"/>ed Chriſt to be the light, who enlightens every one that comes into the <note place="margin">
+                  <hi>Iohn</hi> 1. 9.</note> world: And here you are found to be among the falſe Prophets, Scribes and Phariſes, walking in their ways, and every tree is known by its fruits, which all the Prophets who walked in the light, &amp; Chriſt that <note place="margin">
+                  <hi>Mat..</hi> 7. 20</note> was the light, cryed <hi>Wo</hi> againſt: and you are all turned out of the way, in rejecting the corner Stone, <hi>Chriſt,</hi> which enlightens the conſcience of every one to guide them unto him, as the falſe Builders did; And go <note place="margin">
+                  <hi>Iohn</hi> 1. 9. <hi>Iude</hi> 11.</note> in the way of <hi>Cain,</hi> to murder, and greedily run after the error of <hi>Balaam,</hi> who loved the wages of unrighteouſneſs: So that, as a Troop of Robbers wait for a man, ſo do you a-company of Prieſts murder in the way by conſent, as the Prieſts did when the Lord ſent <hi>Hoſea</hi> the true Pro<g ref="char:EOLhyphen"/>phet <note place="margin">
+                  <hi>Hoſ.</hi> 6. 9. <hi>Mat.</hi> 25. 15</note> to cry againſt them; for you commit lewdneſs, in turning every one from the light in their conſciences, which the Lord hath given unto every one a meaſure, according unto their ability, to guide them up into the Kingdom of God: and you turn them aſide to ſeek the Kingdom in Obſervations, harkening unto the dark inventions of your <note place="margin">
+                  <hi>Rev.</hi> 22. 18</note> brains, in adding your wiſdom unto the teſtimony of <hi>Chriſt;</hi> and this is your portion, the plagues written in the Book will be added unto you. Here I have cleared my conſcience, dealing plainly with you, declaring
+<pb n="10" facs="tcp:153174:7"/>
+unto you whence you are, as the Lord hath made known unto me, that you may be without excuſe in the mighty day of the Lord, which will ſpeedily come upon you, wherein you ſhall give account for the blood of Souls that have been ſhut out of the Kingdom, and deſtroyed by you: To the light in every one of your Conſciences I ſpeak, which ſhall eternally witneſſe me, when the Book of Conſcience is opened.</p>
+            <p>Repent, repent, and give over deceiving the people, and deſtroying their Souls: and haſte, haſte to meet the Lord, in returning within, to be guided by his counſel, the light in your conſciences, which you have <note place="margin">
+                  <hi>Pſal.</hi> 2. 12.</note> rejected, leſt ye periſh in your gainſayings: <hi>Kiſs the Son,</hi> in obeying his counſel, the light in your conſcience, that let's you ſee the evil of your doings, <hi>leſt you periſh in the way; for if his anger be kindled a little, bleſſed are all they that truſt in him.</hi>
+            </p>
+            <p>To all you who have ſet up a finer Image in Goſpel Ordinances as you call them under the forms of Independent and Anabaptiſts, and ſay you are the Saints whom the Lord hath choſen, and have only a right to the beſt of the creatures, to eat of the fat, and be clothed with the fineſt of the wool, and make merry with the creatures, and live in plea<g ref="char:EOLhyphen"/>ſures: <note place="margin">
+                  <hi>Ezek.</hi> 34. 2. 3. <hi>Gal.</hi> 5. 13. <hi>Mat.</hi> 5. 48.</note> and when the light in your Conſcience cries againſt you, to <hi>uſe your liberty but not as an occaſion to the fleſh;</hi> to <hi>make no proviſion for the fleſh,</hi> to ſatiſfie it, and the luſts thereof; but you muſt <hi>be perfect as <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our heavenly Father is perfect;</hi> You regard it not, but hearken unto the counſel of your own hearts, which draws you to look at the words of <note place="margin">
+                  <hi>Rom.</hi> 7. 23.</note> 
+               <hi>Paul,</hi> where he ſaith, <hi>I find a law in my members warring againſt the Law of my mind;</hi> ſo ye wreſt the Scripture to your own deſtruction, for your en<g ref="char:EOLhyphen"/>couragement to live in the fleſh, and ſay, None muſt be free from the body of ſin while he is here in the body: and thus you deceive your ſelves, and all whom you draw from the light in your Conſcience, which cries for a perfect fulfilling of the Law of God; for <hi>the Soul that</hi> 
+               <note place="margin">
+                  <hi>Ezek.</hi> 18. 20.</note> 
+               <hi>ſinneth, it ſhall dye:</hi> Though <hi>Paul</hi> did complain of a body of ſin, it was in his growth, and it was his burden, which made him cry, <hi>O wretched man, who ſhall deliver me?</hi> And he witneſſed it put off, <hi>the Law of the</hi> 
+               <note place="margin">
+                  <hi>Rom.</hi> 7. 24.</note> 
+               <hi>Spirit of Life in Chriſt Jeſus, hath made me free from the Law of ſin and death;</hi> for Chriſt is made manifeſt <hi>to deſtroy the works of the Devil,</hi> and <hi>not to deſtroy the Law;</hi> to ſave man from the condemning power of <note place="margin">
+                  <hi>Rom.</hi> 8. 2.</note> the Law, while he lives in tranſgreſſion of it; for the Law hath power over the fleſhly man, ſo long as he lives: But <hi>be came to fulfil the Law,</hi> 
+               <note place="margin">1 <hi>Ioh.</hi> 3. 8.</note> and all the Saints beare witneſs of it in their meaſures; ſome witneſs it <note place="margin">
+                  <hi>Rom,</hi> 7. 1.</note> fulfilled, others wait, following the Lambe daily in the Croſs, till they come to the fulfilling of it, that <hi>the righteouſneſs of the Law may be ful<g ref="char:EOLhyphen"/>filled in us, who walk not after the fleſh, but after the Spirit.</hi> 
+               <note place="margin">
+                  <hi>Rom.</hi> 8. 3. 4.</note>
+            </p>
+            <p>Therefore mind the light in your Conſciences, diligently hearken unto it, and it will ſmite your glorious Image of Forms and Obſervati<g ref="char:EOLhyphen"/>ons,
+<pb n="11" facs="tcp:153174:7"/>
+and break it to pieces, and will rend off all your glorious coverings of your outward profeſſion, &amp; will let you ſee, the <hi>Wo</hi> is unto them that are covered, and not with the Spirit of the Lord. To the light in <note place="margin">
+                  <hi>Iſa.</hi> 30. 1.</note> your Conſciences I ſpeak, which will eternally witneſſe me, if you hear<g ref="char:EOLhyphen"/>ken unto it, to be guided by it, you will never find reſt in outward <note place="margin">
+                  <hi>Rom.</hi> 6. 6.</note> Forms and Obſervations, but in putting off the body of ſin, through the obedience of the Spirit, that the righteouſneſs of the Law may be <note place="margin">
+                  <hi>Rom.</hi> 8. 4.</note> fulfilled in you, in walking no more after the fleſh, but after the Spirit for <hi>they that are Chriſts, have crucified the fleſh with the affections and luſts;</hi> 
+               <note place="margin">
+                  <hi>Gal.</hi> 5. 24.</note> 
+               <hi>and the body is dead in regard of ſin, but the ſpirit is alive unto righteouſneſs</hi> And this you muſt witneſſe, or elſe all your Religion is vain, and your <note place="margin">
+                  <hi>Rom.</hi> 8. 10.</note> Souls will periſh.</p>
+            <p>To all you Inhabiters of <hi>England,</hi> How long will you drink of the <note place="margin">
+                  <hi>Rev.</hi> 17. 4.</note> Cup of Abominations, the wine of the wrath of the Whore, which hath made you drunk, and all Nations, to lay out your mony for <note place="margin">
+                  <hi>Iſa.</hi> 5 5. 2.</note> that which is not bread to the Merchants of <hi>Babylon,</hi> who fill unto you the Cup of Abominations, in drawing you from the light in your <note place="margin">
+                  <hi>Luk.</hi> 17. 20. 21.</note> Conſciences, which is given unto every one of you a meaſure, to guide you up to God, to ſeek for the Kingdom of God in Obſervations, and Chriſt ſaith it is not in Obſervations, but within: ſo they keep you in Captivity, in <hi>Babylons Kingdom,</hi> under the power of ſin, hell, and death.</p>
+            <p>To every particular Inhabiter of <hi>England</hi> I write: Come out of <hi>Ba<g ref="char:EOLhyphen"/>bylon,</hi> 
+               <note place="margin">
+                  <hi>Rev.</hi> 18. 4.</note> all Forms, and Obſervations, and Traditions, which are ſet up by the will of man: Now is <hi>Babylon</hi> come in remembrance before God, and the vials of wrath muſt be poured upon her, and upon h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <note place="margin">
+                  <hi>Revel.</hi> 18. 23, 24.</note> Merchants, for by their Sorceries are you Inhabitants of <hi>England,</hi> and all Nations deceived; and in her is found the blood of the Pro<g ref="char:EOLhyphen"/>phets and Saints, and of all that were ſlain upon the Earth: Haſte, <note place="margin">
+                  <hi>Rev.</hi> 18. 4.</note> haſte, come out of her, leſt you partake with her in her ſins, and ſo partake with her in her puniſhment. which will ſpeedily come upon her, for the mouth of the Lord of Hoaſts hath ſpoken it: Return within every one in particular; examine your hearts, and mind the light in your Conſcience, and it will alwaies let you ſee where your hearts are, and what they delight in, for it is the heart the Lord requires; He will no longer be worſhipped in Words, Forms, and Obſervations, but in Spirit and in truth, and in ſincerity in the in<g ref="char:EOLhyphen"/>ward <note place="margin">
+                  <hi>Iohn</hi> 4. 24.</note> parts: therefore every one be faithfull in taking heed to the light in your Conſciences, which the Lord hath given to every one a meaſure to profit withall, for the exerciſe of the Conſcience towards <note place="margin">
+                  <hi>Mat.</hi> 25. 15.</note> God and men; in minding your watch to wait in the light in meaſure, it will bring to Judgment all the powers of darkneſs in you; and the righteous Law of God will cry through your earthly and carnall <note place="margin">
+                  <hi>Iſa,</hi> 42. 2.</note> hearts, till judgment be brought forth into victory, and your wills will be brought in ſubiection unto the Will or God, to wait on him for refreſhment from his preſence, who <hi>ſatisfieth the hungry with good</hi> 
+               <note place="margin">
+                  <hi>Luk.</hi> 1. 53.</note>
+               <pb n="12" facs="tcp:153174:8"/>
+               <hi>things:</hi> And take heed of conſulting with fleſh and blood, for that leads into pride and diſobedience, into Hell and deſtruction: mind the light in your Conſcience, which is the ſure word of prophecy, that you cannot be deceived, taking heed unto it, as unto a light <note place="margin">2 <hi>Pet.</hi> 1. 19</note> that ſhines in a dark place, <hi>untill the day dawn, and the day-ſtar ariſe in your hearts;</hi> diligently hearken unto it, and you ſhall eat <note place="margin">
+                  <hi>Iſa.</hi> 55. 2. 3</note> that which is good, <hi>and your Soul ſhall delight it ſelf in fatneſſe:</hi> there is your teacher within you, the light in your Conſciences; loving it <note place="margin">
+                  <hi>Iohn</hi> 3. 19.</note> and obeying it, is your life; hating it and diſobeying it, is your con<g ref="char:EOLhyphen"/>demnation: To that pure light in your Conſciences I ſpeak which will eternally witneſs me, when the Book of Conſcience is opened in you: Now you have time, prize it, in waiting on the Lord in the light, to <hi>make your calling and Election ſure,</hi> in <hi>putting off the old man and his deeds, and putting on the Lord Jeſus Christ in righteouſneſs and holineſs, without which no man ſhall ſee the Lord;</hi> in ſo doing you ſhall <note place="margin">2 <hi>Pet.</hi> 1. 10</note> eſcape the wrath of God, which is coming upon the Children of diſo<g ref="char:EOLhyphen"/>bedience in this Nation and elſewhere; for the Lord will make the <note place="margin">
+                  <hi>Iſa.</hi> 51. 3. <hi>Ioel.</hi> 2. 3. 1 <hi>Sam.</hi> 3. 11. <hi>Dan.</hi> 2. 35.</note> Earth as the Garden of <hi>Eden,</hi> and hath begun His great and ſtrange Work in this Nation, which ſhall make the ears of them that hear to tingle, wherein He is exalting the Kingdom of the Lord Jeſus, which Kingdom ſhall break down all the Kingdoms of the world, and ſhall fill the whole Earth; for <hi>the mighty day of the Lord is coming that ſhall burn as an Oven, and all you that are proud, and all you that do wickedly ſhall</hi> 
+               <note place="margin">
+                  <hi>Mal.</hi> 4. 3.</note> 
+               <hi>be ſtubble, and the day that cometh ſhall burn you up, ſaith the Lord of Hoſts, and it ſhall leave of you neither Root nor Branch. But unto you that fear the Name of the Lord ſhall the Sun of righteouſneſs ariſe with healing in his</hi> 
+               <note place="margin">
+                  <hi>Verſe</hi> 4.</note> 
+               <hi>wings, and ye ſhall go forth and grow as Calves of the ſtall, and ye ſhall tread down the wicked, and they ſhall be as aſhes under the ſoies of your</hi> 
+               <note place="margin">
+                  <hi>Verſe</hi> 3.</note> 
+               <hi>feet, in the day that I do this ſaith the Lord:</hi> wherein He is now gather<g ref="char:EOLhyphen"/>ing His Elect together, His ſcattered ſheep, that have been ſcattered <note place="margin">
+                  <hi>Mat.</hi> 24. 31 <hi>Ezek.</hi> 34. 12.</note> in the cloudy and dark day, and will bring them from the people, and gather them from the Countries, <hi>and will bring them to their own Land, and I wil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> feed them upon a good paſture, and upon the high Mountains of</hi> Iſrael <hi>ſhall their fold be, and there ſhall they lie in a good fold, and in fat</hi> 
+               <note place="margin">
+                  <hi>verſe</hi> 13.</note> 
+               <hi>paſture ſhall they feed upon the Mountains of</hi> Iſrael; <hi>and I will raiſe up for them a plant of renown, and they ſhall no more be conſumed with hunger, in the Land, neither bear the ſhame of the Heathen any more, but they ſhall</hi> 
+               <note place="margin">
+                  <hi>Verſe</hi> 29.</note> 
+               <hi>dwell ſafely, and none ſhall make them afraid: Thus ſhall you know that I the Lord your God am with you, and that the houſe of</hi> Iſrael <hi>is my people, ſaith the Lord God.</hi> 
+               <note place="margin">
+                  <hi>Verſe</hi> 30.</note>
+            </p>
+            <p>
+               <hi>England,</hi> here I have cleared my Conſcience, in declaring to thee what the Lord hath made known to me of His love and mercy. He will manifeſt it to thee, if thou wilt hearken diligently to His Counſel, the <note place="margin">
+                  <hi>Iſa.</hi> 33. 2.</note> light which is in the Conſcience of every one, and wait upon Him to be guided by His Power: and all you that diſobey the righteous Law
+<pb n="13" facs="tcp:153174:8"/>
+of God, the light in your Conſcience, you ſhall be ſwept away with the beeſom of His wrath, and your place ſhall be no more, for the <note place="margin">
+                  <hi>Iohn</hi> 3. 20.</note> mouth of the Lord of Hoſts hath ſpoken it: And whether you hear or forbear, I am clear of the blood of all men, in making known to you what the Lord hath revealed to me: he that can receive it, let him. <note place="margin">
+                  <hi>Acts</hi> 20. 26</note>
+            </p>
+            <closer>
+               <signed>W. D.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>A WORD from the LORD.</head>
+            <p>TO all Saints and Children of the moſt high God, whom He hath called and choſen out of the World, and all their Cuſtoms, Faſhions, Worſhips, Forms, Ob<g ref="char:EOLhyphen"/>ſervations <note place="margin">1 <hi>Pet.</hi> 2, 9.</note> and Traditions, which are ſet up by the will of man, to wait upon him in the light, the Counſel of Ieſus Chriſt, the Captain of our Salvation; Every one <note place="margin">
+                  <hi>Iſa.</hi> 55. 2.</note> in your meaſure ſtand valiant Souldiers, and be not diſ<g ref="char:EOLhyphen"/>couraged, neither at the enemy within, nor without; lift up your heads, and behold your King Ieſus Chriſt, who is preſent with you, to daſh in pieces and deſtroy all your enemies for you: Stand faithful in His Counſel, <note place="margin">
+                  <hi>Iſa.</hi> 13. 9.</note> and walk in His Power, every one in your meaſure; and be bold in the Lord, for you are the Army of the Lord God <note place="margin">
+                  <hi>Ioel</hi> 2. 2, 3.</note> Almighty, His mighty Hoaſt, whom he hath choſen out of the World to make known His eternall Power in, to ſound out His eternal and powerful Word, which ſhall make the ears of all the Inhabitants of the Earth that hear, to tingle; and at the ſound and hearing thereof ſhall their <note place="margin">1 <hi>Sam.</hi> 3. 11. <hi>Ioel.</hi> 2. 4. 6, 7, 8, 10, 11. <hi>Rev.</hi> 17. 14.</note> hearts fail, and paleneſs ſhall gather into all faces in the mighty Day of the Lords Power, which is begun in this Nation, wherein he is exalting the Kingdom of Ieſus Chriſt our King, who is riding on in his Majeſty and mighty Power, conquering all the powers of the Earth in the hearts of His Saints, and will overturn and daſh in pieces all the Powers in this Nation, and all the world over, that will not ſubmit to His Scepter, to be guided
+<pb n="14" facs="tcp:153174:9"/>
+by His Counſel, the pure Law of God, which is the light in the Conſcience: Now is He coming with ten thouſands of His Saints to Iudge the World, and to give to every one according to their deeds: and the Kingdoms <note place="margin">
+                  <hi>Iud.</hi> 14. 15.</note> and Dominions, and the greatneſs of the Kingdoms un<g ref="char:EOLhyphen"/>der the whole Heavens, ſhall be given to the Saints of the moſt high God, and all Nations ſhall ſerve and obey <note place="margin">
+                  <hi>Dan.</hi> 7. 27.</note> him: Rejoyce, rejoyce, ye Saints and Children of the moſt high God, ſtand faſt in the Counſel of Ieſus Chriſt, the light in you, and walk in His Power, and you ſhall walk as Kings upon Earth, and ſhall ſing the new ſong that none can ſing, but the hundred forty four thouſand whoſe minds are redeemed from the Earth, who ſtand before the Throne of God day and night, ſinging <hi>Hallelu<g ref="char:EOLhyphen"/>jahs</hi> 
+               <note place="margin">
+                  <hi>Rev.</hi> 5. 9. <hi>Cap.</hi> 14. 3. <hi>Cap.</hi> 19. 6. <hi>Cap.</hi> 5. 13.</note> and Praiſes to the Lord God omnipetent, who is taking to Him His great Power to ſit upon His Throne and to the Lamb for evermore.</p>
+            <closer>
+               <signed>William Dewsbury.</signed>
+            </closer>
+            <pb facs="tcp:153174:9"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
